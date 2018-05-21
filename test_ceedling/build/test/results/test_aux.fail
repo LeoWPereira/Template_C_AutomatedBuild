@@ -1,0 +1,17 @@
+---
+:source:
+  :path: test
+  :file: test_aux.cpp
+:successes: []
+:failures:
+- :test: test_insertion
+  :line: 51
+  :message: Expected 500 Was 244
+:ignores: []
+:counts:
+  :total: 1
+  :passed: 0
+  :failed: 1
+  :ignored: 0
+:stdout:
+- ''
